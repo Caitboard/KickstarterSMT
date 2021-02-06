@@ -1,0 +1,4 @@
+[2021-01-18 01:08:59][1] Processing: App\Mail\TestMail
+[2021-01-18 01:09:00][1] Failed:     App\Mail\TestMail
+[2021-01-18 01:09:39][2] Processing: App\Mail\TestMail
+[2021-01-18 01:09:40][2] Failed:     App\Mail\TestMail
